@@ -16,7 +16,7 @@ Proses ini meliputi pembersihan data, membangun model Decision Tree, menguji mod
   - Iris-versicolor
   - Iris-virginica
 ### Alur Singkat Proyek
-#### **Memuat Dataset:**
+- Memuat Dataset:
 Dataset Iris diimpor menggunakan ```sklearn.datasets.load_iris()``` yang sudah memiliki data siap pakai untuk analisis.
 - Pembagian Data:
 Dataset dibagi menjadi data latih (training set) dan data uji (testing set) dengan proporsi 70% untuk latih dan 30% untuk uji menggunakan ```train_test_split```.
