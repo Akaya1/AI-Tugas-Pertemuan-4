@@ -1,7 +1,8 @@
 ### Nur Muhammad Fadilah - 20220801114
 ---
+## Klasifikasi jenis bunga Iris berdasarkan fitur-fitur spesifik yang terdapat pada dataset Iris.
 ### Deskripsi
-Proyek ini bertujuan untuk membangun sebuah model machine learning menggunakan algoritma ***Decision Tree*** untuk mengklasifikasikan jenis bunga Iris berdasarkan fitur-fitur spesifik yang terdapat pada dataset Iris. Dataset ini berisi tiga kelas bunga yang berbeda: Iris-setosa, Iris-versicolor, dan Iris-virginica, serta fitur seperti panjang dan lebar sepal, dan panjang serta lebar petal.
+Proyek ini bertujuan untuk menggunakan algoritma ***Decision Tree*** untuk mengklasifikasikan jenis bunga Iris berdasarkan fitur-fitur spesifik yang terdapat pada dataset Iris. Dataset ini berisi tiga kelas bunga yang berbeda: Iris-setosa, Iris-versicolor, dan Iris-virginica, serta fitur seperti panjang dan lebar sepal, dan panjang serta lebar petal.
 
 Proses ini meliputi pembersihan data, membangun model ***Decision Tree***, menguji model menggunakan data uji, dan mengevaluasi performa model menggunakan metrik seperti akurasi, confusion matrix, dan classification report.
 ### Detail Dataset Iris
