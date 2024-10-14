@@ -1,5 +1,5 @@
-# Nama: Nur Muhammad Fadilah
-# NIM: 20220801114
+# Nama : Nur Muhammad Fadilah
+# NIM : 20220801114
 ---
 ## Algoritma Decision Tree adalah salah satu algoritma supervised learning yang digunakan untuk tugas klasifikasi dan regresi. Algoritma ini bekerja dengan membangun model dalam bentuk pohon (tree) yang memetakan atribut atau fitur dari data ke label atau target tertentu.
 ## Data yang sedang diolah adalah dataset Iris. Dataset ini berisi informasi tentang tiga jenis bunga Iris (Setosa, Versicolor, Virginica), serta beberapa fitur dari bunga tersebut yang digunakan untuk membedakan setiap jenisnya.
@@ -33,3 +33,5 @@ Tujuan utama adalah klasifikasi—yaitu, menggunakan fitur-fitur bunga (panjang/
   - Rentan Terhadap Overfitting: Jika pohon terlalu dalam, itu bisa overfit.
   - Tidak Stabil: Perubahan kecil pada data dapat menghasilkan pohon yang sangat berbeda.
   - Bias terhadap fitur dominan: Fitur dengan lebih banyak kategori dapat mendominasi keputusan.
+### Kesimpulan
+Penggunaan algoritma Decision Tree dalam analisis data Iris memberikan hasil yang sangat baik dengan akurasi yang sempurna, meskipun perlu diperhatikan potensi masalah overfitting. Model ini dapat berfungsi sebagai langkah awal yang baik dalam memahami konsep dasar pembelajaran mesin dan klasifikasi.
