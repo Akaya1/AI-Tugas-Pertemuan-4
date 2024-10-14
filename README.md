@@ -1,4 +1,4 @@
-- Nur Muhammad Fadilah - 20220801114
+### Nur Muhammad Fadilah - 20220801114
 ---
 ## Algoritma Decision Tree 
 adalah salah satu algoritma supervised learning yang digunakan untuk tugas klasifikasi dan regresi. Algoritma ini bekerja dengan membangun model dalam bentuk pohon (tree) yang memetakan atribut atau fitur dari data ke label atau target tertentu.
